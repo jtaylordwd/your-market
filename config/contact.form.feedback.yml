@@ -1,0 +1,14 @@
+uuid: bd73e4c3-35fd-439b-a2fa-a38fd4d7eadd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jtaylor@deepwhydesign.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
